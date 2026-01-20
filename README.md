@@ -1,4 +1,6 @@
-## Hi there 👋
+## Mackenzie Kleczynski
+
+Second-year Data Science and General Business minor Student at the University of Virginia
 
 <!--
 **kenzkleczynski/kenzkleczynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
